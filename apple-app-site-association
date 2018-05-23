@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "L734NYKVU8.com.attenza.UniversalLinkTest",
-				"paths": [ "*"]
+				"paths": [ "/reset?*"]
 			}
 		]
 	}
